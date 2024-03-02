@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"fe3f339869c56f72","type":"file","file":"Knowledge/Well known/Math/Concepts/Duality.md","x":100,"y":-220,"width":323,"height":229},
+		{"id":"a1b6f6539228f933","type":"file","file":"Knowledge/Well known/Math/Concepts/Symmetry.md","x":-320,"y":240,"width":240,"height":220},
+		{"id":"22513d5e4d13e636","type":"file","file":"Knowledge/Well known/Math/Functional analysis/Fourier transform.md","x":-339,"y":-220,"width":278,"height":250},
+		{"id":"0b306155117a3504","x":-1120,"y":-203,"width":279,"height":196,"type":"file","file":"Knowledge/Well known/Math/Optimization/Loss function.md"}
+	],
+	"edges":[
+		{"id":"5f613ccf964d7025","fromNode":"a1b6f6539228f933","fromSide":"top","toNode":"22513d5e4d13e636","toSide":"bottom"},
+		{"id":"d2e14346801b16c7","fromNode":"fe3f339869c56f72","fromSide":"left","toNode":"22513d5e4d13e636","toSide":"right"}
+	]
+}

@@ -1,3 +1,7 @@
+#fundamental
+
+
+
 >[!NOTE] ELI5
 >
 

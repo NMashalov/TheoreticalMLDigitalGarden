@@ -65,11 +65,14 @@
             "id": "52ab02777f63ad33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
-                "mode": "source",
-                "source": false
+                "file": "Suggestion/Neural Nets/Phase transition can allow faster and controllable learning.canvas",
+                "viewState": {
+                  "x": -311.7351710846059,
+                  "y": -73.66652457907117,
+                  "zoom": -0.21311705589294433
+                }
               }
             }
           },
@@ -123,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phase",
+                "query": "tag:#free_energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
+                "file": "Suggestion/Neural Nets/Phase transition can allow faster and controllable learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
+                "file": "Suggestion/Neural Nets/Phase transition can allow faster and controllable learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md"
+                "file": "Suggestion/Neural Nets/Phase transition can allow faster and controllable learning.canvas"
               }
             }
           }
@@ -232,44 +235,48 @@
   },
   "active": "52ab02777f63ad33",
   "lastOpenFiles": [
-    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Untitled.canvas",
-    "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Order parameter.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Landau Theory.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Phase transitions.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Untitled",
-    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Index.md",
-    "Knowledge/Well known/Math/Differential equations/Diffusion equation.md",
-    "Knowledge/Well known/Math/Differential equations/Fokker–Planck equation.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions",
-    "Knowledge/Well known/Physics/Renormalization/Ising model.md",
-    "Knowledge/Well known/Math/Flows/Flow.md",
-    "Knowledge/Recent results/Papers/Bernton Schr¨odinger Bridge Samplers.md",
-    "Knowledge/Well known/Math/Flows",
-    "assets/Papers/Schr¨odinger Bridge Samplers.pdf",
-    "Knowledge/Recent results/Papers/Mikolov Efficient Estimation of Word Representations in Vector Space.md",
-    "assets/Papers/1301.3781.pdf",
-    "assets/Papers/NIPS-2016-dense-associative-memory-for-pattern-recognition-Paper.pdf",
-    "Knowledge/Recent results/Papers/LeCun A Path Towards Autonomous Machine Intelligence Version.md",
+    "Suggestion/Neural Nets/Supplementary.md",
+    "Suggestion/Neural Nets/Phase transition can allow faster and controllable learning.canvas",
+    "Suggestion/Neural Nets/Generalization is finding symmetries in data.canvas",
+    "Suggestion/Neural Nets/Phase transition can allow faster and controllable learning.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Free energy.md",
+    "Knowledge/Well known/Machine Learning/Generalization.md",
+    "Knowledge/Recent results/index.md",
     "Knowledge/Recent results/Latent space.md",
-    "Knowledge/Recent results/Papers",
-    "assets/Papers/10356_a_path_towards_autonomous_mach.pdf",
-    "Suggestion/Diffusion/Diffusion is just cycle.canvas",
+    "Knowledge/Recent results/Optimal transport/Optimal transport.md",
     "Knowledge/Recent results/Manifold hypothesis.md",
-    "Knowledge/Recent results/Generative modeling/Language models/Tools/Untitled.md",
-    "Knowledge/Recent results/Generative modeling/Language models/BriefHistory.canvas",
-    "Knowledge/Recent results/Generative modeling/Language models/Tools/Text embedding.md",
-    "Knowledge/Recent results/Generative modeling/Language models/Tools",
-    "Knowledge/Well known/Math/Topology/Embedding.md",
-    "Knowledge/Well known/Math/Topology/Index.md",
-    "Knowledge/Well known/Math/Topology/Embedding/Intro.md",
-    "Knowledge/Well known/Physics/Dynamical systems/Integrability.md",
-    "Knowledge/Well known/Physics/Dynamical systems/Phase.md",
+    "Knowledge/Well known/Math/Differential algebra/Manifold.md",
+    "Knowledge/Well known/Math/Group Theory/Group.md",
+    "Knowledge/Well known/Math/Group Theory/Coset.md",
+    "Knowledge/Well known/Math/Untitled",
+    "Knowledge/Well known/Math/Differential algebra/Hyperspherical.md",
+    "Suggestion/Neural Nets/Weights should be dual to task.md",
+    "Suggestion/Neural Nets/G.md",
+    "Knowledge/Recent results/Papers/Davidson Hyperspherical Variational Auto-Encoders.md",
+    "Knowledge/Recent results/Papers/LeCun A Path Towards Autonomous Machine Intelligence Version.md",
+    "Knowledge/Well known/Math/Measure Theory/Wasserstein metric.md",
+    "Knowledge/Recent results/Optimal transport",
+    "Knowledge/Well known/Math/Measure Theory/Index.md",
+    "Knowledge/Well known/Math/Optimization/Loss function.md",
+    "Knowledge/Well known/Math/Optimization/Gradient flow.md",
+    "Suggestion/Neural Nets/Weights should be dual to task.canvas",
+    "Suggestion/Untitled",
+    "Knowledge/Well known/Math/Functional analysis/Fourier transform.md",
+    "Knowledge/Well known/Math/Optimization",
+    "Suggestion/Diffusion/Suggestion.md",
+    "Knowledge/Well known/Math/Concepts/Duality.md",
+    "Suggestion/Neural Nets",
+    "Suggestion/Gradient Descent",
+    "Knowledge/Well known/Math/Concepts/Symmetry.md",
+    "Knowledge/Well known/Math/Concepts",
     "Knowledge/Well known/Physics/Dynamical systems/Similarity.md",
-    "Knowledge/Well known/Physics/Dynamical systems/Equilibrium.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Distributions/Boltzmann Distribution.md",
-    "Knowledge/Well known/Physics/Statistical Physics/Untitled.md",
-    "Knowledge/Well known/Physics/Statistical Physics",
+    "Knowledge/Well known/Math/Functional analysis",
+    "Knowledge/Recent results/Generative modeling/Untitled.canvas",
+    "Knowledge/Recent results/Generative modeling/Variational autoencoder",
+    "assets/Papers/1804.00891.pdf",
+    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Untitled.canvas",
+    "Suggestion/Diffusion/Diffusion is just cycle.canvas",
+    "Knowledge/Recent results/Generative modeling/Language models/BriefHistory.canvas",
     "assets/Pasted image 20240301172350.png"
   ]
 }

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"89a0a196b97c15e6","x":-220,"y":-560,"width":500,"height":740,"color":"2","type":"group","label":"Old school"},
+		{"id":"176333272fde543a","type":"file","file":"People/Geoffrey Hinton.md","x":-160,"y":-500,"width":260,"height":340}
+	],
+	"edges":[]
+}

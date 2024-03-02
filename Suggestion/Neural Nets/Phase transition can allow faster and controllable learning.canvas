@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"967c51ce01e7d394","x":-460,"y":-260,"width":400,"height":400,"type":"group","label":"Inspiration"},
+		{"id":"ffd1ba11d97b9c18","x":-440,"y":-180,"width":180,"height":180,"type":"link","url":"https://www.youtube.com/watch?v=q1VO5dmymFM"}
+	],
+	"edges":[]
+}
