@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "f6a707e5e5d40871",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbde07bb0a7df92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc2374809a5cf43",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Suggestion/Diffusion/Diffusion is just cycle.canvas",
+                "viewState": {
+                  "x": 312.817599172098,
+                  "y": -219.60869861805293,
+                  "zoom": -1.196529811223348
+                }
+              }
+            }
+          },
+          {
+            "id": "dac9efbf484eb91f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Suggestion/Diffusion/Diffusion is just cycle.canvas",
+                "viewState": {
+                  "x": 421.005085115946,
+                  "y": -630.9247369771274,
+                  "zoom": -0.943933937579241
+                }
+              }
+            }
+          },
+          {
+            "id": "493fc5c8fc476630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Well known/Physics/Dynamical systems/Integrability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f4c1cc0eac795fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Well known/Neuroscience/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52ab02777f63ad33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5edba7c44c30f72",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Latent_space"
+              }
+            }
+          },
+          {
+            "id": "121e783e114d6888",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/Manifold_hypothesis"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "107077f38312c2d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be1574346c3e149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e8939dd1125746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "896ed6389816cf1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "phase",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2aa95f2c14f534c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e9de0a44402f32e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfd9e7a82b6d8925",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d071d64b96a2314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "001cfc9ada022788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "641eaef02841d6bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "238e14d7fd69e6b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b3c6512e7e375509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "wikipedia-search:Open Article": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "52ab02777f63ad33",
+  "lastOpenFiles": [
+    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Untitled.canvas",
+    "Knowledge/Well known/Physics/Statistical Physics/Quasiparticles.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Order parameter.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Landau Theory.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Phase transitions.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Untitled",
+    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Index.md",
+    "Knowledge/Well known/Math/Differential equations/Diffusion equation.md",
+    "Knowledge/Well known/Math/Differential equations/Fokker–Planck equation.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Phase transitions",
+    "Knowledge/Well known/Physics/Renormalization/Ising model.md",
+    "Knowledge/Well known/Math/Flows/Flow.md",
+    "Knowledge/Recent results/Papers/Bernton Schr¨odinger Bridge Samplers.md",
+    "Knowledge/Well known/Math/Flows",
+    "assets/Papers/Schr¨odinger Bridge Samplers.pdf",
+    "Knowledge/Recent results/Papers/Mikolov Efficient Estimation of Word Representations in Vector Space.md",
+    "assets/Papers/1301.3781.pdf",
+    "assets/Papers/NIPS-2016-dense-associative-memory-for-pattern-recognition-Paper.pdf",
+    "Knowledge/Recent results/Papers/LeCun A Path Towards Autonomous Machine Intelligence Version.md",
+    "Knowledge/Recent results/Latent space.md",
+    "Knowledge/Recent results/Papers",
+    "assets/Papers/10356_a_path_towards_autonomous_mach.pdf",
+    "Suggestion/Diffusion/Diffusion is just cycle.canvas",
+    "Knowledge/Recent results/Manifold hypothesis.md",
+    "Knowledge/Recent results/Generative modeling/Language models/Tools/Untitled.md",
+    "Knowledge/Recent results/Generative modeling/Language models/BriefHistory.canvas",
+    "Knowledge/Recent results/Generative modeling/Language models/Tools/Text embedding.md",
+    "Knowledge/Recent results/Generative modeling/Language models/Tools",
+    "Knowledge/Well known/Math/Topology/Embedding.md",
+    "Knowledge/Well known/Math/Topology/Index.md",
+    "Knowledge/Well known/Math/Topology/Embedding/Intro.md",
+    "Knowledge/Well known/Physics/Dynamical systems/Integrability.md",
+    "Knowledge/Well known/Physics/Dynamical systems/Phase.md",
+    "Knowledge/Well known/Physics/Dynamical systems/Similarity.md",
+    "Knowledge/Well known/Physics/Dynamical systems/Equilibrium.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Thermodynamical systems/Distributions/Boltzmann Distribution.md",
+    "Knowledge/Well known/Physics/Statistical Physics/Untitled.md",
+    "Knowledge/Well known/Physics/Statistical Physics",
+    "assets/Pasted image 20240301172350.png"
+  ]
+}

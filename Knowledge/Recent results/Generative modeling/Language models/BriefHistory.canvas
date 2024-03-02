@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"69fad37c39fa55bd","type":"text","text":"","x":-438,"y":280,"width":250,"height":60},
+		{"id":"1a8aa30c4c7d7f77","type":"file","file":"Knowledge/Recent results/Generative modeling/Language models/Distributional semantics.md","x":-80,"y":40,"width":400,"height":400},
+		{"id":"ce52f7629daf8c89","type":"file","file":"Knowledge/Well known/Math/Topology/Embedding.md","x":-680,"y":-80,"width":400,"height":320}
+	],
+	"edges":[
+		{"id":"ec8631dacc21505e","fromNode":"1a8aa30c4c7d7f77","fromSide":"top","toNode":"ce52f7629daf8c89","toSide":"top","label":"Allows to build"}
+	]
+}

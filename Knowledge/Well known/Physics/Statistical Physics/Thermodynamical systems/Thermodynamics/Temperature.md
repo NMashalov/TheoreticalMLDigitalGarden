@@ -1,0 +1,1 @@
+![Temperature Thumbnail](https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.gif)

@@ -1,0 +1,1 @@
+Is potential in d

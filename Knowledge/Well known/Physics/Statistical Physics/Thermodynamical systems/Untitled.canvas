@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"58946608c476a44f","x":0,"y":0,"width":400,"height":400,"type":"file","file":"Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Phase transitions.md"},
+		{"id":"a4871e21ce484fc3","x":-440,"y":-180,"width":300,"height":220,"type":"file","file":"Knowledge/Well known/Physics/Statistical Physics/Phase transitions/Landau Theory.md"}
+	],
+	"edges":[
+		{"id":"1980e57bfdd0a834","fromNode":"a4871e21ce484fc3","fromSide":"right","toNode":"58946608c476a44f","toSide":"top","label":"Explains"}
+	]
+}

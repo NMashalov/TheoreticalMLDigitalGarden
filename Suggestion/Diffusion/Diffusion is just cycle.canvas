@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4ab84053233dbd76","type":"group","x":-480,"y":55,"width":720,"height":505,"color":"3","label":"Schrodinger bridges"},
+		{"id":"57aee567dfccf957","type":"group","x":720,"y":-640,"width":400,"height":400,"label":"Suggestion"},
+		{"id":"2e7379b84238f842","x":120,"y":-360,"width":400,"height":400,"type":"link","url":"https://openreview.net/pdf?id=BZ5a1r-kVsf"},
+		{"id":"aecdc67e84df1d2f","type":"text","text":"","x":-284,"y":-386,"width":250,"height":60},
+		{"id":"5b2149edc126e21e","type":"file","file":"Suggestion/Diffusion/Suggestion.md","x":800,"y":-560,"width":240,"height":330},
+		{"id":"be69e5586fb6e89f","type":"file","file":"Knowledge/Well known/Optimal transport/Radon–Nikodym.md","x":80,"y":-880,"width":320,"height":290},
+		{"id":"ef0493f2465128b5","type":"file","file":"assets/Schr¨odinger Bridge Samplers.pdf","x":-440,"y":120,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f9c82c8a424f05c9","fromNode":"4ab84053233dbd76","fromSide":"right","toNode":"5b2149edc126e21e","toSide":"left"}
+	]
+}
